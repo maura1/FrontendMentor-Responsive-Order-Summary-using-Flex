@@ -78,7 +78,7 @@ body {
 .plan {
     margin-left: 20px;
 }
-.plan h4 {
+.plan h2 {
     font-weight: 900;
     font-size: 1rem;
     color: var(--dark-blue);
